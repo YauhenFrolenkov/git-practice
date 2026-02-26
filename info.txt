@@ -1,2 +1,2 @@
-Hello from feature branch! For GitHub!
+Hello from feature branch! For local Git!
 
