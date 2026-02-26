@@ -1,1 +1,1 @@
-Hello from master!!! For GitHub!
+Hello from master!!! For local Git!
